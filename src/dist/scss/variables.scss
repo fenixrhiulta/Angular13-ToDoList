@@ -1,0 +1,12 @@
+$primary-color: purple;
+$secondary-color: rgb(177, 177, 250);
+$tertinary-color: #FFF;
+
+$primary-background-color: #e3e9ff;
+$secondary-background-color: $tertinary-color;
+$tertiary-background-color: $primary-color;
+
+$primary-text-color: $secondary-color;
+$secondary-text-color: $tertinary-color;
+
+$danger-color: red;
